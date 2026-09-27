@@ -1,0 +1,16 @@
+C:\Users\User\OneDrive\Desktop\muasirproq\vahid bilet\vahid bilet\obj\Debug\net8.0-windows\vahid_bilet.Form1.resources
+C:\Users\User\OneDrive\Desktop\muasirproq\vahid bilet\vahid bilet\obj\Debug\net8.0-windows\vahid bilet.csproj.GenerateResource.cache
+C:\Users\User\OneDrive\Desktop\muasirproq\vahid bilet\vahid bilet\obj\Debug\net8.0-windows\vahid bilet.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\OneDrive\Desktop\muasirproq\vahid bilet\vahid bilet\obj\Debug\net8.0-windows\vahid bilet.AssemblyInfoInputs.cache
+C:\Users\User\OneDrive\Desktop\muasirproq\vahid bilet\vahid bilet\obj\Debug\net8.0-windows\vahid bilet.AssemblyInfo.cs
+C:\Users\User\OneDrive\Desktop\muasirproq\vahid bilet\vahid bilet\obj\Debug\net8.0-windows\vahid bilet.csproj.CoreCompileInputs.cache
+C:\Users\User\OneDrive\Desktop\muasirproq\vahid bilet\vahid bilet\bin\Debug\net8.0-windows\vahid bilet.exe
+C:\Users\User\OneDrive\Desktop\muasirproq\vahid bilet\vahid bilet\bin\Debug\net8.0-windows\vahid bilet.deps.json
+C:\Users\User\OneDrive\Desktop\muasirproq\vahid bilet\vahid bilet\bin\Debug\net8.0-windows\vahid bilet.runtimeconfig.json
+C:\Users\User\OneDrive\Desktop\muasirproq\vahid bilet\vahid bilet\bin\Debug\net8.0-windows\vahid bilet.dll
+C:\Users\User\OneDrive\Desktop\muasirproq\vahid bilet\vahid bilet\bin\Debug\net8.0-windows\vahid bilet.pdb
+C:\Users\User\OneDrive\Desktop\muasirproq\vahid bilet\vahid bilet\obj\Debug\net8.0-windows\vahid bilet.dll
+C:\Users\User\OneDrive\Desktop\muasirproq\vahid bilet\vahid bilet\obj\Debug\net8.0-windows\refint\vahid bilet.dll
+C:\Users\User\OneDrive\Desktop\muasirproq\vahid bilet\vahid bilet\obj\Debug\net8.0-windows\vahid bilet.pdb
+C:\Users\User\OneDrive\Desktop\muasirproq\vahid bilet\vahid bilet\obj\Debug\net8.0-windows\vahid bilet.genruntimeconfig.cache
+C:\Users\User\OneDrive\Desktop\muasirproq\vahid bilet\vahid bilet\obj\Debug\net8.0-windows\ref\vahid bilet.dll
